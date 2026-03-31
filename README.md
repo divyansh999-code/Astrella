@@ -31,11 +31,9 @@ The Pomodoro technique was built for a kitchen timer. Astrella was built for the
 
 ## Screenshots
 
-> *(Add your screenshots here — ENGINE, NAV, SCIENCE, LOG screens + discovery overlay)*
-
 | ENGINE | NAV | SCIENCE | LOG |
 |--------|-----|---------|-----|
-| ![Engine](screenshots/engine.jpg) | ![Nav](screenshots/nav.jpg) | ![Science](screenshots/science.jpg) | ![Log](screenshots/log.jpg) |
+| ![Engine](https://github.com/user-attachments/assets/05c0ce07-fcc1-48cb-81fd-fe9bb990decc) | ![Nav](https://github.com/user-attachments/assets/4d842275-508b-4b4e-96d4-0e977d03183f) | ![Science](https://github.com/user-attachments/assets/caa9206d-1c14-4277-85e6-a6b9c4c10de9) | ![Log](https://github.com/user-attachments/assets/e676e856-d55b-4234-8018-a38ef6ddec39) |
 
 ---
 
