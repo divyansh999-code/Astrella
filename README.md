@@ -39,7 +39,7 @@ The Pomodoro technique was built for a kitchen timer. Astrella was built for the
 
 ## Demo
 
-> *(Add your screen recording here)*
+https://github.com/user-attachments/assets/15f4fa01-9c00-44bb-b01e-1c1c260e4de0
 
 ---
 
@@ -180,9 +180,9 @@ Every design decision in Astrella was made to serve the narrative:
 
 ## Built By
 
-**Divyansh Khandal** — Solo builder, AI & Data Science student at MBM Engineering College, Jodhpur.
+Divyansh Khandal | AI Developer & Data Science Enthusiast
 
-Focused on on-device AI, subversive tool design, and shipping things that feel different.
+.
 
 [![GitHub](https://img.shields.io/badge/GitHub-divyansh999--code-181717?style=flat-square&logo=github)](https://github.com/divyansh999-code)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Divyansh%20Khandal-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/divyansh-khandal-5b8b8b32b)
