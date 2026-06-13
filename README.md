@@ -180,9 +180,7 @@ Every design decision in Astrella was made to serve the narrative:
 
 ## Built By
 
-**Divyansh Khandal** | AI Developer & Data Science Enthusiast
-
-.
+**Divyansh Khandal** | AI Developer & Data Science Enthusiast.
 
 [![GitHub](https://img.shields.io/badge/GitHub-divyansh999--code-181717?style=flat-square&logo=github)](https://github.com/divyansh999-code)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Divyansh%20Khandal-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/divyansh-khandal-5b8b8b32b)
